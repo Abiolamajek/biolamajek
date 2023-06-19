@@ -1,10 +1,6 @@
-### HELLO there 👋
-
-<!--
+### HELLO there
 ** My Name is Abiolamajek/Abiolamajek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PYTHON
 - 🌱 I’m currently learning DEVOPS
 - 💬 Ask me about DevOps TOOLS
