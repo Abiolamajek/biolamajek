@@ -1,8 +1,16 @@
-### Hi there 👋 
+### HELLO there 👋
 
-My Name is Abiola Majekodunmi and currently training to be a DevOps engineer with a level up in tech currently learning Python.
+<!--
+** My Name is Abiolamajek/Abiolamajek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Find out more about me & feel free to connect with me here:
-linkedin.com/in/abiola-majekodunmi-
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on PYTHON
+- 🌱 I’m currently learning DEVOPS
+- 💬 Ask me about DevOps TOOLS
+- 😄 Pronouns: HE 
+- ⚡ Fun fact: I LOVE LEARNING NEW THINGS
+connect with me on 
 https://medium.com/@abiolamajekodunmi2011
-abiolamajekodunmi2011@gmail.com
+linkedin.com/in/abiola-majekodunmi-
+abiolamajekodunmi20@gmail.com
